@@ -8,6 +8,6 @@
 
 ## Работа с ветками в Git
 
-* **git branch** 
+* **git BRANCH** 
 * **git branch -d <имя ветки>**
 * **git merge**
