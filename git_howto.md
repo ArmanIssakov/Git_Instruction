@@ -9,5 +9,5 @@
 ## Работа с ветками в Git
 
 * **git branch**
-* **git branch -d <имя ветки>**
+* **git branch -d <имя ветки>** если прописать эту команду в терминале git удалит эту ветку. Пример: git branch hello - git удалит ветку с именем hello
 * **git merge**
